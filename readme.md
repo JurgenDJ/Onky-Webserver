@@ -23,3 +23,14 @@ py -m venv venv
 uvicorn server:app --reload
 ```
 de reload parameter zorgt dat de server herstart wanneer server.py wordt aangepast.
+
+# Api Calls
+Since the base eiscp project doesn't seem to be maintained anymore, and it it was not completed to support api calls that require parameters based on a specific template, I mainly rely on doing raw calls, using the description of onkyo protocol as found xls file from Micahel Elsdoerfer.
+
+# Credits
+This project builds on top of the work done by Michael Elsdoerfer in his project : https://github.com/miracle2k/onkyo-eiscp
+The most usefull information was found in the xls file:
+[http://michael.elsdoerfer.name/onkyo/ISCP_AVR_134.xlsx]
+
+
+
