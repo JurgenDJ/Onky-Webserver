@@ -29,7 +29,7 @@ Since the base eiscp project doesn't seem to be maintained anymore, and it it wa
 
 # Credits
 This project builds on top of the work done by Michael Elsdoerfer in his project : https://github.com/miracle2k/onkyo-eiscp
-The most usefull information was found in the xls file:
+for making my own scripts, I found the most usefull information in his xls file:
 [http://michael.elsdoerfer.name/onkyo/ISCP_AVR_134.xlsx]
 
 
